@@ -1,0 +1,58 @@
+/*
+ *  Green Theme - default
+**/
+body {
+    background: url('../img/hojas.jpg');
+}
+
+#global {
+    background-color: white;
+}
+
+#logo {
+    background: #235E3D;
+    color: white;
+}
+
+#menu {
+    background: #333;
+}
+
+#menu ul li:hover {
+    background: #235E3D;
+}
+
+#menu ul li a {
+    color: white;
+}
+
+.post h2 {
+    color: #333;
+}
+
+.post .date {
+    color: gray;
+}
+
+.button-more {
+    background: #235E3D;
+    color: white;
+}
+
+#sidebar h4 {
+    color: #333;
+}
+
+#sidebar h4 span {
+    background: white;
+}
+
+form input[type="text"],
+form input[type="email"],
+form input[type="passwd"] {
+    border: 1px solid  #ccc;
+}
+
+footer {
+    color: white;
+}

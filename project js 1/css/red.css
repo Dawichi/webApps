@@ -1,0 +1,58 @@
+/*
+ *  Red Theme
+**/
+body {
+    background: url('../img/rojo.jpg');
+}
+
+#global {
+    background-color: white;
+}
+
+#logo {
+    background: #CA3413;
+    color: white;
+}
+
+#menu {
+    background: #333;
+}
+
+#menu ul li:hover {
+    background: #CA3413;
+}
+
+#menu ul li a {
+    color: white;
+}
+
+.post h2 {
+    color: #333;
+}
+
+.post .date {
+    color: gray;
+}
+
+.button-more {
+    background: #CA3413;
+    color: white;
+}
+
+#sidebar h4 {
+    color: #333;
+}
+
+#sidebar h4 span {
+    background: white;
+}
+
+form input[type="text"],
+form input[type="email"],
+form input[type="passwd"] {
+    border: 1px solid  #ccc;
+}
+
+footer {
+    color: white;
+}
